@@ -9,3 +9,5 @@
 
 ### 输出规范
 - 项目中应包含result.png
+
+![](https://gitbub.com/weiyang1024/javaInstall/master/README/result.png)
