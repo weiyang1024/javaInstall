@@ -9,4 +9,4 @@
 
 ### 输出规范
 - 项目中应包含result.png
-
+![](https://github.com/weiyang1024/javaInstall/blob/master/test/result.png)
